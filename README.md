@@ -1,2 +1,2 @@
-# OTP_Varification
+# OTP_Verification
 Created with CodeSandbox
