@@ -56,8 +56,8 @@ const PhoneVerification = () => {
   };
 
   const handleVerify = () => {
-    // if (otp.join("").length !== 6) {
-    if (otp.length !== 6) {
+    if (otp.join("").length !== 6) {
+//     if (otp.length !== 6) {
       setError(true);
     } else {
       setCounter(0);
