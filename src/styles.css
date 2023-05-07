@@ -1,0 +1,71 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  height: auto;
+  width: 60%;
+  border-right: 0.3rem solid gray;
+  border-left: 0.3rem solid gray;
+  padding: 1rem 1rem;
+  margin-left: 15%;
+  margin-top: 5%;
+}
+.heading {
+  padding-bottom: 2rem;
+  border-bottom: 1px solid gray;
+}
+.Otp {
+  padding-bottom: 2rem;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+input {
+  width: 100px;
+  padding: 1rem;
+  font-size: 2.5rem;
+  text-align: center;
+  border: none;
+  border-bottom: 2px solid black;
+  outline: none;
+  margin-bottom: 2rem;
+}
+input:focus {
+  border: 1px solid #9db8f5;
+  border-radius: 8px;
+  width: 100px;
+  padding: 1rem;
+}
+.counter {
+  color: rgb(51, 11, 116);
+}
+.btn {
+  margin-top: 30px;
+  height: 50px;
+  background: #4caf50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  margin-top: 2rem;
+}
+p {
+  color: gray;
+}
+a {
+  text-decoration: none;
+}
+
+.footer {
+  margin-top: 5%;
+}
